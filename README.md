@@ -64,4 +64,4 @@ Data Analyst | Nairobi, Kenya
 
 📊 Passionate about using data to improve health outcomes in Kenya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url-here)
+[![www.linkedin.com/in/felix-beru-04b905280)]
