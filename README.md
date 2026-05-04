@@ -98,6 +98,9 @@ make a difference.*
 # Data Source
 - Kenya Demographic and Health Survey (KDHS) 2022
 - Table 9.2C — Number of ANC visits and timing of first visit by county
+
+  ### Final Visualization — Heatmap
+![ANC Quality Heatmap](kenya_anc_heatmap.png)
 ## Author
 **Felix Beru**
 Data Analyst | Nairobi, Kenya
