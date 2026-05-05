@@ -101,6 +101,34 @@ make a difference.*
 
   ### Final Visualization — Heatmap
 ![ANC Quality Heatmap](kenya_anc_heatmap.png)
+
+---
+
+## Project 4 — Health Facility Delivery Rate by County
+
+### Key Finding
+Kenya's national health facility delivery rate stands at 85.2% — meaning 
+roughly 1 in 7 women still delivers outside a health facility. But that 
+national figure masks a sharp divide.
+
+- 🔴 **16 out of 47 counties** fall below the national average
+- 🔴 **Largest gaps:** Mandera, Tana River and Wajir
+- 🟢 **Highest rates:** Nairobi City (99.4%), Nyeri (99.1%) and Kiambu (97.7%)
+- ⚠️ Tana River emerges as a new concern in this project — remoteness 
+  and infrastructure gaps are driving women to deliver at home without 
+  skilled assistance
+
+### Series Pattern
+Mandera has now appeared at the bottom across all four projects in this 
+series — ANC coverage, ANC quality, under-5 mortality and facility delivery. 
+This points to a systemic crisis rather than isolated challenges.
+
+### Visualization
+![Health Facility Delivery](kenya_facility_delivery.png)
+
+### Data Source
+- Kenya Demographic and Health Survey (KDHS) 2022
+- Table 9.4 — Place of delivery by county
 ## Author
 **Felix Beru**
 Data Analyst | Nairobi, Kenya
