@@ -1,6 +1,6 @@
 ##  Interactive Dashboard
 Explore all four projects in one interactive dashboard:
-[ Open Interactive Dashboard](kenya_maternal_health_dashboard.html)
+[ https://kenya-maternal-health-anc-analysis-oasrbxen82vgwacmq4vbny.streamlit.app/)
 
 Built with Python and Plotly — hover over any bar for details,
 zoom into specific counties, and explore the full dataset interactively.
