@@ -1,3 +1,9 @@
+##  Interactive Dashboard
+Explore all four projects in one interactive dashboard:
+[ Open Interactive Dashboard](kenya_maternal_health_dashboard.html)
+
+Built with Python and Plotly — hover over any bar for details,
+zoom into specific counties, and explore the full dataset interactively.
 # Kenya Maternal & Child Health Analysis
 ## A County-Level Data Series | KDHS 2022
 
