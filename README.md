@@ -11,15 +11,14 @@ using data from the Kenya Demographic and Health Survey (KDHS) 2022.
 Kenya's national skilled ANC coverage average is 97.1%, but this figure 
 masks a serious regional divide.
 
-- 🔴 **Lowest coverage:** Mandera, Garissa and Wajir
-- 🟢 **Highest coverage:** Nairobi City, Nyamira and Migori
+- 🔴 **Lowest coverage:** Mandera, Garissa and Wajir.
+- 🟢 **Highest coverage:** Nairobi City, Nyamira and Migori.
 - ⚠️ Counties in North Eastern Kenya fall significantly below the 
   national average, indicating that geography and infrastructure 
   remain critical barriers for women accessing maternal care.
 
 ## Visualization
 ![ANC Coverage by County](kenya_anc_coverage_final.png)
-
 
 ## Project 2 — Under-5 Mortality Rate
 
@@ -31,11 +30,11 @@ that challenges assumptions about poverty and child survival.
 - 🔴 **Highest mortality:** Migori, Siaya and Homa Bay
 - 🟢 **Lowest mortality:** Nairobi City, Mandera and Marsabit
 - ⚠️ The Nyanza region shows elevated mortality rates likely driven 
-  by malaria and HIV burden — despite having better infrastructure 
+  by malaria and HIV burden  despite having better infrastructure 
   than North Eastern counties.
 
 # Key Insight
-Comparing both projects reveals a striking analytical tension —
+Comparing both projects reveals a striking analytical tension
 counties like Mandera have **low ANC coverage** but **relatively low 
 under-5 mortality**, while counties like Migori have **decent ANC 
 coverage** but **high child mortality**. This suggests that child 
@@ -43,7 +42,7 @@ survival in Kenya is shaped not just by poverty or remoteness,
 but by disease ecology and healthcare quality.
 
 # Visualization
-![Under-5 Mortality by County](kenya_under5_mortality.png)
+[Under-5 Mortality by County](kenya_under5_mortality.png)
 
 # Tools Used
 - Excel
@@ -58,12 +57,11 @@ but by disease ecology and healthcare quality.
 - Table 9.1C — Antenatal care by county
 - Table 8.1 — Under-5 mortality by county
 
----
 
 # Project 3 — ANC Quality: Beyond the 97% Coverage Figure
 # Background
 Following engagement on the first analysis, a health professional challenged 
-the 97.1% ANC coverage figure — noting that timeliness and number of contacts 
+the 97.1% ANC coverage figure noting that timeliness and number of contacts 
 tell a more honest story. This project responds to that feedback with data.
 
 # Key Finding
@@ -79,7 +77,7 @@ Kenyan counties across three indicators:
 
 # Pattern Found
 Mandera appears as a consistently underperforming county across all three 
-quality indicators — low 4+ visits, highest no-ANC rate, and fewest first 
+quality indicators low 4+ visits, highest no-ANC rate, and fewest first 
 trimester visits. This points to a systemic access barrier beyond simple 
 coverage statistics.
 
@@ -89,7 +87,7 @@ as much as attendance.
 
 # Insight
 > *Kenya's maternal health challenge is no longer just about getting women to 
-attend ANC — it's about getting them there early enough and often enough to 
+attend ANC  it's about getting them there early enough and often enough to 
 make a difference.*
 
 # Visualization
@@ -97,12 +95,10 @@ make a difference.*
 
 # Data Source
 - Kenya Demographic and Health Survey (KDHS) 2022
-- Table 9.2C — Number of ANC visits and timing of first visit by county
+- Table 9.2C  Number of ANC visits and timing of first visit by county
 
   ### Final Visualization — Heatmap
-![ANC Quality Heatmap](kenya_anc_heatmap.png)
-
----
+[ANC Quality Heatmap](kenya_anc_heatmap.png)
 
 ## Project 4 — Health Facility Delivery Rate by County
 
@@ -128,9 +124,7 @@ This points to a systemic crisis rather than isolated challenges.
 
 ### Data Source
 - Kenya Demographic and Health Survey (KDHS) 2022
-- Table 9.4 — Place of delivery by county
-
-  ---
+- Table 9.4 Place of delivery by county
 
 ## Series Conclusion — The Geography of Maternal Health Inequality in Kenya
 
@@ -152,29 +146,28 @@ maternal health deprivation concentrated in North Eastern Kenya.
 
 ### The Hidden Story Behind National Averages
 - Kenya's **97.1% ANC coverage** hides the fact that only **62.3%** of 
-  women complete the WHO recommended 4+ visits
+  women complete the WHO recommended 4+ visits.
 - Kenya's **85.2% facility delivery rate** means roughly **1 in 7 women** 
-  still delivers outside a health facility
+  still delivers outside a health facility.
 - Kenya's **42 under-5 deaths per 1,000** national average masks rates 
-  nearly double that in Nyanza region counties
+  nearly double that in Nyanza region counties.
 
 ### Key Insight
-> *The challenge facing Kenya's maternal health system is not coverage — 
+
+> **The challenge facing Kenya's maternal health system is not coverage
 it is equity. The data consistently shows that where you are born in Kenya 
 determines whether your mother had skilled care, whether she delivered 
-safely, and whether you survived your first five years of life.*
+safely, and whether you survived your first five years of life.**
 
 ### Recommendations for Policymakers and Health Organizations
 1. **Targeted investment** in Mandera, Wajir and Garissa across all 
-   maternal health indicators
+   maternal health indicators.
 2. **Quality over quantity** — ANC attendance numbers are misleading 
-   without measuring timeliness and frequency
+   without measuring timeliness and frequency.
 3. **Tana River** requires urgent attention as an emerging concern 
-   in facility delivery rates
+   in facility delivery rates.
 4. **Nyanza region** needs a disease-specific intervention strategy 
-   addressing malaria and HIV burden driving under-5 mortality
-
----
+   addressing malaria and HIV burden driving under-5 mortality.
 
 ## About This Project
 This analysis was built entirely using:
