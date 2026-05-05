@@ -162,7 +162,7 @@ safely, and whether you survived your first five years of life.**
 ### Recommendations for Policymakers and Health Organizations
 1. **Targeted investment** in Mandera, Wajir and Garissa across all 
    maternal health indicators.
-2. **Quality over quantity** — ANC attendance numbers are misleading 
+2. **Quality over quantity** ANC attendance numbers are misleading 
    without measuring timeliness and frequency.
 3. **Tana River** requires urgent attention as an emerging concern 
    in facility delivery rates.
