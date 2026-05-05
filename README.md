@@ -116,7 +116,7 @@ national figure masks a sharp divide.
 
 ### Series Pattern
 Mandera has now appeared at the bottom across all four projects in this 
-series — ANC coverage, ANC quality, under-5 mortality and facility delivery. 
+series ANC coverage, ANC quality, under-5 mortality and facility delivery. 
 This points to a systemic crisis rather than isolated challenges.
 
 ### Visualization
