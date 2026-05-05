@@ -129,10 +129,62 @@ This points to a systemic crisis rather than isolated challenges.
 ### Data Source
 - Kenya Demographic and Health Survey (KDHS) 2022
 - Table 9.4 — Place of delivery by county
-## Author
-**Felix Beru**
-Data Analyst | Nairobi, Kenya
 
-📊 Passionate about using data to improve health outcomes in Kenya
+  ---
+
+## Series Conclusion — The Geography of Maternal Health Inequality in Kenya
+
+This four-part analysis set out to understand maternal and child health 
+outcomes across Kenya's 47 counties using KDHS 2022 data. The findings 
+reveal a consistent and troubling pattern.
+
+### The Recurring Crisis Counties
+Across all four projects, the same counties appear repeatedly at the bottom:
+
+| County | ANC Coverage | ANC Quality | Under-5 Mortality | Facility Delivery |
+|---|---|---|---|---|
+| Mandera | 🔴 Bottom 3 | 🔴 Bottom 3 | 🔴 High | 🔴 Lowest |
+| Wajir | 🔴 Bottom 3 | 🔴 Bottom 3 | 🔴 High | 🔴 Bottom 3 |
+| Garissa | 🔴 Bottom 3 | 🔴 Bottom 3 | 🔴 High | 🔴 Bottom 3 |
+
+These are not isolated data points. This is a systemic pattern of 
+maternal health deprivation concentrated in North Eastern Kenya.
+
+### The Hidden Story Behind National Averages
+- Kenya's **97.1% ANC coverage** hides the fact that only **62.3%** of 
+  women complete the WHO recommended 4+ visits
+- Kenya's **85.2% facility delivery rate** means roughly **1 in 7 women** 
+  still delivers outside a health facility
+- Kenya's **42 under-5 deaths per 1,000** national average masks rates 
+  nearly double that in Nyanza region counties
+
+### Key Insight
+> *The challenge facing Kenya's maternal health system is not coverage — 
+it is equity. The data consistently shows that where you are born in Kenya 
+determines whether your mother had skilled care, whether she delivered 
+safely, and whether you survived your first five years of life.*
+
+### Recommendations for Policymakers and Health Organizations
+1. **Targeted investment** in Mandera, Wajir and Garissa across all 
+   maternal health indicators
+2. **Quality over quantity** — ANC attendance numbers are misleading 
+   without measuring timeliness and frequency
+3. **Tana River** requires urgent attention as an emerging concern 
+   in facility delivery rates
+4. **Nyanza region** needs a disease-specific intervention strategy 
+   addressing malaria and HIV burden driving under-5 mortality
+
+---
+
+## About This Project
+This analysis was built entirely using:
+- Python, Pandas and Matplotlib
+- Google Colab
+- Kenya Demographic and Health Survey (KDHS) 2022
+- Data sourced from Kenya National Bureau of Statistics (KNBS)
+
+## Author
+**Felix Beru** | Data Analyst | Nairobi, Kenya
+Passionate about using data to drive health equity in Kenya 🇰🇪
 
 [www.linkedin.com/in/felix-beru-04b905280]
