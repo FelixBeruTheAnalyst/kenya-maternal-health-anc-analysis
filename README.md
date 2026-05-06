@@ -126,7 +126,7 @@ series ANC coverage, ANC quality, under-5 mortality and facility delivery.
 This points to a systemic crisis rather than isolated challenges.
 
 ### Visualization
-![Health Facility Delivery](kenya_facility_delivery.png)
+![Health Facility Delivery(1)](kenya_facility_delivery.png)
 
 ### Data Source
 - Kenya Demographic and Health Survey (KDHS) 2022
