@@ -175,6 +175,46 @@ safely, and whether you survived your first five years of life.**
 4. **Nyanza region** needs a disease-specific intervention strategy 
    addressing malaria and HIV burden driving under-5 mortality.
 
+   ---
+
+## Project 5 — Kenya County Maternal Health Index (KCMHI)
+### A Composite Policy Scorecard
+
+This project synthesizes all four previous analyses into a single 
+composite index — ranking all 47 Kenyan counties by overall maternal 
+and child health performance.
+
+### Methodology
+Each county receives a score from 0-100 based on six weighted indicators:
+
+| Indicator | Weight | Rationale |
+|---|---|---|
+| Under-5 Mortality | 25% | Ultimate outcome indicator |
+| Facility Delivery Rate | 20% | Strongest predictor of maternal survival |
+| 4+ ANC Visits | 20% | Quality of care during pregnancy |
+| No ANC | 15% | Complete exclusion from care system |
+| First Trimester Initiation | 10% | Timeliness of care |
+| ANC Coverage | 10% | Baseline access indicator |
+
+### Performance Tiers
+- 🟢 **High Performing** (75-100) — 10 counties
+- 🔵 **Moderate** (50-74) — 30 counties
+- 🟡 **At Risk** (25-49) — 5 counties
+- 🔴 **Critical** (0-24) — 2 counties
+
+### Key Findings
+- **Nairobi City** ranks 1st with the highest composite score
+- **Wajir** ranks last — consistently underperforming across all indicators
+- Only **10 out of 47 counties** are High Performing
+- **7 counties** are At Risk or Critical and need urgent intervention
+
+### Visualization
+[KCMHI Scorecard](kenya_kcmhi_scorecard.png)
+
+### Data Source
+- Kenya Demographic and Health Survey (KDHS) 2022
+- Composite index methodology developed by Felix Beru
+
 ## About This Project
 This analysis was built entirely using:
 - Python, Pandas and Matplotlib
